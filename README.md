@@ -28,6 +28,12 @@ The data ranges from the late 1800s to 2022 and is provided by the **European Cl
 - **K-Nearest Neighbors (KNN)**
 - **Principal Component Analysis (PCA)**
 - **Hierarchical Clustering**
+- **Bayesian Optimization**
+- **Convolutional Neural Network (CNN)**
+- **Generative Adversarial Networks (GANs)**
+- **Grid Search**
+- **Random Forests**
+- **Recurrent Neural Networks (RNN)**
 
 ## Tools
 - Language: Python
